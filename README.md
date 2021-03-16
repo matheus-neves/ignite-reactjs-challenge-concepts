@@ -12,7 +12,7 @@
   <a href="https://github.com/matheus-neves/ignite-reactjs-challenge-concepts/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/matheus-neves/ignite-reactjs-challenge-concepts?color=06b656&style=for-the-badge">
   </a>
-  <a href="https://github.com/matheus-neves/ignite-reactjs-challenge-concepts/LICENSE.md">
+  <a href="https://github.com/matheus-neves/ignite-reactjs-challenge-concepts/blob/main/LICENSE">
     <img alt="License MIT" src="https://img.shields.io/badge/license-MIT-%2304D361?color=06b656&style=for-the-badge">
   </a>
 </p>
@@ -53,7 +53,7 @@ Challenge consists of a small application of activities to do, to train a little
 
 ## :memo: License
 
-This challenge is under license from MIT. See the archive [LICENSE](https://github.com/matheus-neves/ignite-reactjs-challenge-concepts/LICENSE.md) for more details.
+This challenge is under license from MIT. See the archive [LICENSE](https://github.com/matheus-neves/ignite-reactjs-challenge-concepts/blob/main/LICENSE) for more details.
 
 ---
 
